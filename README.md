@@ -62,7 +62,7 @@ I am a third-year Computer Science student in France, passionate about building 
 | [🤝 Negotiation Platform](https://github.com/anastasia638/negotiation-platform) | Web platform for structured price negotiation with offers and counter-offers | Java, Spring Boot, PostgreSQL, Docker |
 | [🏦 Banking Application](https://github.com/anastasia638/banking-application-cpp) | Desktop banking app with account management, transactions and SQL persistence | C++, Qt, SQL |
 | [♟️ Java Chess Game](https://github.com/anastasia638/java-chess-game) | Full chess game implementation using object-oriented design principles | Java, OOP |
-| [🃏 debilou-race](https://github.com/anastasia638/debilou-race) | Card game with deck management, game rules and player interactions | Java |
+| [🃏 card-game-java](https://github.com/anastasia638/card-game-java) | Card game with deck management, game rules and player interactions | Java |
 | [📚 Ebook Shop](https://github.com/anastasia638/ebook-shop-website) | Frontend online bookstore with browsing and simulated purchasing | HTML, CSS, JavaScript |
 
 ---
