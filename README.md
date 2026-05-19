@@ -94,7 +94,7 @@ I am particularly interested in programmes that combine strong theoretical found
 ## 📫 How to Reach Me
 
 - 💼 LinkedIn: [linkedin.com/in/meriem-silmi](https://linkedin.com/in/meriem-silmi)
-- 📧 Email: meriem.silmi@email.com
+- 📧 Email: meriemsilmiii@gmail.com
 
 ---
 
